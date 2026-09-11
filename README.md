@@ -116,6 +116,7 @@ I am a research fellow specializing in bioelectrochemical systems, materials che
 15. **Sharma, M.**, Mondal, P., Chakraborty, A., Kuttippurath, J., & Purkait, M. K. (2018). Effect of different molecular weight polyethylene glycol on flat sheet cellulose membranes for evaluating power density performance in pressure retarded osmosis study. ***Journal of Water Process Engineering***, 24, 1–9. [doi:10.1016/j.jwpe.2018.05.011](https://doi.org/10.1016/j.jwpe.2018.05.011)
 16. **Sharma, M.**, Chakraborty, A., Jayanarayanan, K., & Yadav, A. K. (2018). Potential Power Production from Salinity Gradient at the Hooghly Estuary System. ***Innovative Energy & Research***, 7(2), 210. [doi:10.4172/2576-1463.1000210](https://doi.org/10.4172/25761463.1000210)
 
+
 ---
 
 ### 📑 Book Chapters
@@ -159,3 +160,60 @@ I am a research fellow specializing in bioelectrochemical systems, materials che
 <div align="center">
   <sub>© Dr. Mukesh Sharma • Research Profile & Portfolio • Maintained via GitHub</sub>
 </div>
+
+
+                               ## 🚀 Featured Research & Engineering Projects
+
+<br>
+
+### 🌍 1. Horizon Europe Mi-Hy: Self-Sustaining Hydroponics & Bio-Hybrid Architecture
+> **Role:** Work Package 2 (WP2)| **Funding:** €6M Horizon Europe Programme[cite: 1]  
+> **Consortium Partners:** UWE Bristol, KU Leuven, Paris Research, Sony CSL, CSIC, BIOFACTION KG[cite: 1, 3]
+
+In my current capacity, I manage our interdisciplinary technical contributions to engineer fully circular, self-sustaining controlled-environment agriculture[cite: 1, 3]. My primary technical focus includes:
+* **The Prosthetic Rhizosphere:** I engineered a bio-hybrid root-zone interface that recruits electroactive and diazotrophic microorganisms, effectively shifting the paradigm of hydroponic nutrition by eliminating reliance on synthetic nitrogen fertilizers[cite: 1, 6].
+* **Advanced Catholyte Integration:** I developed the protocols for integrating microbial fuel cell (MFC) effluent streams as primary nutrient feeds[cite: 1, 6]. For instance, during our high-yield plant growth trials, I utilized synthetic catholyte complemented with Sonneveld's solution for Experiment 3, and subsequently conducted natural catholyte water-softening testing between Experiments 3 and 4 before scaling up.
+* **Plastic-Free Matrix Innovation:** I led the transition away from petrochemical polymers by collaborating directly with KU Leuven to design, prototype, and implement porous, vitrified "smart" clay pots tailored for our bio-electrochemical ecosystem[cite: 1, 5, 6].
+* **Global Public Demonstrators:** I managed the technical architecture and real-time operation of the illuminated **SPIKA bio-hydroponics tower** at the Milan Triennale, bringing the invisible science of nitrogen cycling and MFC bio-electricity to a global audience[cite: 1, 3, 6].
+
+<br>
+
+### 🧠 2. Agro-Photobiological Optimization & AI-Driven Phenotyping
+> **Domain:** Process Automation, Computer Vision & Statistical Modeling[cite: 1, 6, 7]  
+> **Collaborators:** Sony CSL, Paris Research[cite: 1, 3]
+
+Bridging plant biology with computational intelligence, I develop systems that balance biological demands against the strict energy constraints of bio-electrochemical power grids[cite: 6].
+* **Dynamic Light-Power Algorithms:** I conceived and authored bespoke light-modulation algorithms designed to optimize the power-to-biomass ratio, synchronizing high-efficiency LED photon flux with the fluctuating, micro-watt energy harvest of MFCs[cite: 1, 6].
+* **Real-Time Stress Diagnostics:** I collaborate with Sony CSL to interpret complex image datasets, utilizing AI-driven phenotyping models to accurately distinguish between nutrient deficiency and environmental stress in crop cycles[cite: 6].
+* **Kinetics Pipelines:** I actively utilize R programming (`tidyverse`, `ggplot2`) to automate the processing and visualization of PAM fluorometry parameters, including $F_v/F_m$, electron transport rate ($\text{ETR}$), and photochemical yield[cite: 7].
+
+<br>
+
+### 💧 3. Advanced Membrane Science & Salinity-Gradient Blue Energy
+> **Domain:** Materials Chemistry, Desalination & Clean Energy Extraction[cite: 1]  
+> **Affiliations:** IIT Kharagpur, IIT Guwahati, Chungbuk National University[cite: 1]
+
+My foundational doctoral and postdoctoral research addressed critical bottlenecks in water remediation and renewable energy storage[cite: 1].
+* **Nanocomposite PEM Fabrication:** I synthesized novel PVDF and cellulose acetate proton exchange membranes impregnated with graphene oxide and sugarcane bagasse to maximize microbial fuel cell efficiency[cite: 1].
+* **Estuarine Blue Energy:** I executed extensive hydrological modeling and estuarine sampling across the Hooghly Estuary System to evaluate power density performance using Pressure Retarded Osmosis (PRO) and Reverse Electrodialysis (RED)[cite: 1].
+* **Capacitive Deionization:** I developed faradic charged modified wrinkled layered graphene oxide electrodes, significantly enhancing the adsorption capacity for brackish water desalination[cite: 1, 2].
+
+<br>
+
+### 🏭 4. Continuous Electrocoagulation & Industrial Valorisation
+> **Domain:** Industrial Effluent Remediation & Zero-Liquid Discharge[cite: 1, 2]  
+
+I engineered highly scalable treatment architectures tailored for heavily contaminated industrial waste streams[cite: 1, 2].
+* **Continuous Reactor Architecture:** I designed and evaluated continuous-flow electrocoagulation systems for the treatment of high-turbidity effluents, including textile finishing discharge and steel industry biological oxidation treated wastewater[cite: 1, 2].
+* **Heavy Metal & Toxin Mitigation:** I established comprehensive remediation protocols for the removal of arsenic, fluoride, and iron from contaminated drinking water and industrial matrices[cite: 1, 2].
+* **Hybrid Treatment Trains:** I integrated electrocoagulation with ozonation and microfiltration to treat nanofiltration-rejected effluents, paving the way for complete industrial resource recovery[cite: 1, 2].
+
+<br>
+
+### 📈 5. Commercial Translation & Deep-Tech Strategy
+> **Domain:** Tech Transfer, TRL/TPL Acceleration & Third-Stream Consultancy[cite: 1, 3, 5]
+
+I actively steer my academic research toward commercial viability, ensuring our sustainable architectures meet market demands[cite: 1, 5].
+* **Strategic Industrial Partnerships:** I spearheaded the commercial planning that successfully recruited indoor vertical farming enterprise **LettUs Grow** as the primary industrial partner for the Royal Commission for the Exhibition of 1851 proposal[cite: 1, 3, 5].
+* **Technology Readiness roadmapping:** I am leading the commercial transition strategy for the Mi-Hy system by developing robust Technology Readiness Level (TRL) and Technology Performance Level (TPL) frameworks tailored for urban farming markets[cite: 1, 3, 5].
+* **High-Level Networking:** I represent UWE Bristol's deep-tech initiatives to policymakers, venture capitalists, and global stakeholders, notably presenting our WP2 deliverables at the **European Innovation Council (EIC) 2026 Summit** in Brussels[cite: 1, 3, 5].
