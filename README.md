@@ -73,7 +73,6 @@ I am a research fellow specializing in bioelectrochemical systems, materials che
 
 ## 🏛 Strategic Leadership, Grants & Consortium Management
 
-* **Royal Commission for the Exhibition of 1851 Fellowship Bid:** Initiated and served as lead applicant, successfully onboarding vertical farming pioneer **LettUs Grow** as primary commercial partner.
 * **ACORN Research Bridging Grant:** Co-investigator contributing technical frameworks and bridging funds to expand circular urban agricultural facilities.
 * **Hop-On Partner Integration:** Coordinated onboarding, data hygiene standards, and research work plans for the **Faculty of Technology Novi Sad** into the Horizon Europe ecosystem.
 * **Multi-Level Supervision & Pastoral Care:**
