@@ -2,7 +2,7 @@
 
 # Dr. Mukesh Sharma
 ### Ph.D. | Environmental Engineering & Bioelectrochemical Systems
-**Postdoctoral Research Fellow** • *Work Package 2 Lead, Horizon Europe Mi-Hy (€6M)*  
+**Postdoctoral Research Fellow** • *Work Package 2, Horizon Europe Mi-Hy (€6M)*  
 University of the West of England (UWE), Bristol, United Kingdom
 
 [![UWE Profile](https://img.shields.io/badge/UWE_Bristol-Staff_Profile-red?style=flat&logo=academia)](https://people.uwe.ac.uk/Person/MukeshSharma)
@@ -39,7 +39,7 @@ I am a research fellow specializing in bioelectrochemical systems, materials che
 
 ### 🇬🇧 University of the West of England (UWE), Bristol, UK
 **Research Fellow (Horizon Europe Mi-Hy Project)** | *Apr 2024 – Present*
-* **Work Package 2 (WP2) Lead:** Spearheading research and milestone delivery across an **8-partner international consortium** (including KU Leuven, Paris Research, Sony CSL, and CSIC) with a project budget of **€6 Million**.
+* **Work Package 2 (WP2):** Spearheading research and milestone delivery across an **8-partner international consortium** (including KU Leuven, Paris Research, Sony CSL, and CSIC) with a project budget of **€6 Million**.
 * **Prosthetic Rhizosphere Innovation:** Engineered a proprietary bio-hybrid root-zone interface that recruits electroactive and diazotrophic microorganisms, removing dependencies on synthetic nitrogen.
 * **Plastic-Free Matrix Co-Development:** Collaborated with KU Leuven to formulate porous, vitrified "smart" clay pots, eliminating petrochemical plastic bottlenecks in controlled-environment agriculture.
 * **Light-Power Optimization:** Authored adaptive light-pulsing algorithms that synchronize high-efficiency LED photon flux density with the fluctuating, micro-watt energy harvest of MFCs.
