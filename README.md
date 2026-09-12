@@ -1,7 +1,8 @@
 <div align="center">
 
 # Dr. Mukesh Sharma
-### Doctor of Philosophy (Indian Institute of Technology Kharagpur) | Environmental Engineering & Bioelectrochemical Systems |
+### Doctor of Philosophy (Indian Institute of Technology Kharagpur) 
+| Bioelectrochemical Systems; Microbial Hydroponics; Sstainable Agriculture; Hydrogen Production; Nano materials; Membrane Separation; Wastewater Treatment |
 ** Research Fellow at the University of the West of England, Bristol ** • *Work Package 2, Horizon Europe Mi-Hy (€6M)*  
 University of the West of England (UWE), Bristol, United Kingdom
 
