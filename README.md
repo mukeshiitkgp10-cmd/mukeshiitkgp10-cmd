@@ -1,8 +1,8 @@
 <div align="center">
 
 # Dr. Mukesh Sharma
-### Ph.D. | Environmental Engineering & Bioelectrochemical Systems
-**Postdoctoral Research Fellow** • *Work Package 2, Horizon Europe Mi-Hy (€6M)*  
+### Doctor of Philosophy (Indian Institute of Technology Kharagpur) | Environmental Engineering & Bioelectrochemical Systems |
+** Research Fellow at the University of the West of England, Bristol ** • *Work Package 2, Horizon Europe Mi-Hy (€6M)*  
 University of the West of England (UWE), Bristol, United Kingdom
 
 [![UWE Profile](https://img.shields.io/badge/UWE_Bristol-Staff_Profile-red?style=flat&logo=academia)](https://people.uwe.ac.uk/Person/MukeshSharma)
